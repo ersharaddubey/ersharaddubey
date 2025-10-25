@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Varanasi</h3>
 - 🔭 I’m currently working on **<b>Amazon Web Services | EC2 | S3 | Lambda | RDS | DynamoDB | CloudFormation | CloudWatch | CloudTrail | IAM VPC, Route 53, CloudFront, Elastic Load Balancing, Auto Scaling,S3 </b>**
 
-- 🔭 I’m currently working on **A React.js project focused on building dynamic user interfaces and enhancing frontend development skills.**
+- 🔭 I’m currently learning **A React.js project focused on building dynamic user interfaces and enhancing frontend development skills.**
 
 - 🌱 I’m currently learning **React.js, JavaScript ES6+, Redux, and the fundamentals of responsive design and web accessibility.**
 
