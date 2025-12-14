@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharad Dubey</h1>
-<h3 align="center">A passionate AWS Developer from Varanasi</h3>
+<h3 align="center">A passionate AWS Developer</h3>
 - 🔭 I’m currently working on **<b>Amazon Web Services | EC2 | S3 | Lambda | RDS | DynamoDB | CloudFormation | CloudWatch | CloudTrail | IAM VPC, Route 53, CloudFront, Elastic Load Balancing, Auto Scaling,S3 </b>**
 
 - 🔭 I’m currently learning **A React.js project focused on building dynamic user interfaces and enhancing frontend development skills.**
