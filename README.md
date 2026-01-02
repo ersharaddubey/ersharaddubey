@@ -90,6 +90,15 @@ For content and audit report (from lighthouse) optimization - ChatGPT
 *Kashi Institute of Technology, Varanasi | Jul 2011 – Jun 2015*
 
 ---
+## 🎓 portfolio
+https://conferencepanel.com
+https://humaanized.com
+https://www.tha.org
+http://vapsoft.org
+https://sarrtechnologies.in
+
+
+
 
 ## 📫 Contact
 - 📍 Address: B-602 Sai Enclave, Naigaon East, Maharashtra  
