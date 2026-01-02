@@ -1,36 +1,103 @@
-<h1 align="center">Hi 👋, I'm Sharad Dubey</h1>
-<h3 align="center">A passionate AWS Developer</h3>
-- 🔭 I’m currently working on **<b>Amazon Web Services | EC2 | S3 | Lambda | RDS | DynamoDB | CloudFormation | CloudWatch | CloudTrail | IAM VPC, Route 53, CloudFront, Elastic Load Balancing, Auto Scaling,S3 </b>**
+# 📌 Digital Marketing Developer – Sharad Dubey
 
-- 🔭 I’m currently learning **A React.js project focused on building dynamic user interfaces and enhancing frontend development skills.**
+## 👤 About Me
+Versatile **Digital Marketing Specialist & Front-End Developer** with 5+ years of experience architecting, deploying, and optimizing end-to-end digital campaigns. Skilled in blending **marketing strategy** with **technical development** to deliver measurable ROI, scalable solutions, and engaging user experiences.  
 
-- 🌱 I’m currently learning **React.js, JavaScript ES6+, Redux, and the fundamentals of responsive design and web accessibility.**
+I specialize in:
+- High-performance digital campaigns (Google, Meta, LinkedIn, etc.)
+- Marketing automation & analytics-driven optimization
+- Front-end development with modern frameworks (ReactJS, TailwindCSS, Bootstrap)
 
-- 👯 I’m looking to collaborate on **React-based web apps, frontend UI/UX projects, or beginner-friendly open source repositories.**
+---
+## 🛠️ Using Tools : 
 
-- 🤝 I’m looking for help with **Improving component structure, learning advanced React patterns, and integrating APIs efficiently.**
+Seo Studio 
 
-- 💬 Ask me about **React components, state management, hooks, or how to get started with modern frontend development.**
+For Accessibility and ADA testing tool - WAVE accessibility checker
 
-- 📫 How to reach me **ersharaddubey@gmail.com**
+For Website performance report - Google Lighthouse
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sharad-dubey-0a5624301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sharad Dubey LinkedIn" height="30" width="40" /></a>
-</p>
+For Performance & Speed Optimization - PageSpeed Insights
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-</p>
+For content and audit report (from lighthouse) optimization - ChatGPT
+
+
+
+## 🛠️ Core Competencies
+- **Digital Marketing Expertise:** SEO/SEM, PPC, Social Media Marketing, Email Marketing, Content Marketing, CRO, Lead Generation, Retargeting  
+- **Analytics & Tools:** Google Analytics 4, Search Console, SEMrush, Ahrefs, Tag Manager, A/B Testing, Data Visualization  
+- **Platforms & Channels:** Google Ads, Meta Ads, LinkedIn, Snapchat, Mailchimp, HubSpot, WordPress, Hootsuite, Zapier  
+- **Web Development:** HTML5, CSS3, Bootstrap, TailwindCSS, ReactJS, JavaScript  
+- **Cloud Services:** AWS (EC2, S3, Lambda, RDS, DynamoDB, CloudFormation, CloudWatch, IAM, VPC, Route 53, CloudFront, Auto Scaling)  
+- **Soft Skills:** Strategic Planning, Problem-Solving, Creative Thinking, Collaboration, Project Management, Budget Management, Client Relations  
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Aabhyasa Technologies Pvt. Ltd.  
+*Front-End Developer / Digital Marketing Coordinator*  
+*Varanasi, Uttar Pradesh | Nov 2021 – Nov 2025*  
+- Increased user acquisition by **45% in 12 months** via optimized campaigns  
+- Managed **$500K+ quarterly ad budget**, improving ROAS by **30%**  
+- Reduced CPA by **20%** with advanced targeting & retargeting strategies  
+- Boosted conversion rates by **18%** through A/B tested landing pages  
+- Mentored a team of 4 marketers, establishing best practices  
+- Built customer acquisition funnels, improving CLV by **12%**
+
+---
+
+### 📈 Pride Solution  
+*Digital Marketing Coordinator*  
+*Prayagraj, Uttar Pradesh | Jun 2020 – Oct 2021*  
+- Increased organic traffic by **130%** through SEM keyword strategies  
+- Managed SEO, digital ads, social media, and email campaigns  
+- Conducted competitor analysis to identify growth opportunities  
+- Delivered campaign insights and recommendations to senior teams  
+
+---
+
+### 💻 Edunext Technologies Pvt. Ltd.  
+*Front-End Software Developer*  
+*Noida, Uttar Pradesh | Jun 2019 – May 2020*  
+- Developed ERP modules for admissions, fees, attendance, and exams  
+- Built responsive UI components with HTML5, CSS3, Bootstrap  
+- Integrated secure login flows, role management, and real-time notifications  
+- Automated workflows for document uploads, scheduling, and communication  
+
+---
+
+### 🔧 Tech Corner  
+*C++ Developer*  
+*Varanasi, Uttar Pradesh | Oct 2016 – May 2019*  
+- Built efficient software applications using OOP principles  
+- Implemented advanced data structures & algorithms for performance  
+- Optimized applications with multithreading and concurrency  
+
+---¯
+
+### 🖥️ Vapsoft Technologies Pvt. Ltd. / Shadimaker  
+*C++ Developer*  
+*Noida, Uttar Pradesh | Oct 2015 – Sep 2016*  
+- Developed UI components and desktop modules in modern C++  
+- Refactored legacy code for performance optimization  
+- Collaborated with cross-functional teams for robust releases  
+
+---
+
+## 🎓 Education
+**Bachelor of Technology (B.Tech) – Computer Science Engineering**  
+*Kashi Institute of Technology, Varanasi | Jul 2011 – Jun 2015*
+
+---
+
+## 📫 Contact
+- 📍 Address: B-602 Sai Enclave, Naigaon East, Maharashtra  
+- 📞 Mobile: +91 8922096699  
+- 📧 Email: ersharaddubey@gmail.com  
+
+---
+
+
+## 🌟 Summary
+Sharad Dubey is a **results-driven Digital Marketing Developer** who bridges the gap between **marketing strategy and technical execution**. With expertise in **ReactJS, AWS Cloud, and digital campaign optimization**, he delivers scalable solutions that drive measurable business growth.
