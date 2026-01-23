@@ -1,116 +1,91 @@
-# 📌 Digital Marketing Developer – Sharad Dubey
+# Sharad Dubey  
+**Frontend Developer | ReactJS Specialist**  
 
-## 👤 About Me
-Versatile **Digital Marketing Specialist & Front-End Developer** with 5+ years of experience architecting, deploying, and optimizing end-to-end digital campaigns. Skilled in blending **marketing strategy** with **technical development** to deliver measurable ROI, scalable solutions, and engaging user experiences.  
-
-I specialize in:
-- High-performance digital campaigns (Google, Meta, LinkedIn, etc.)
-- Marketing automation & analytics-driven optimization
-- Front-end development with modern frameworks (ReactJS, TailwindCSS, Bootstrap)
+📧 ersharaddubey@gmail.com | 📱 +91-8922096699  
+🌍 India (Open to relocation: Dubai)  
+🔗 LinkedIn: [Add your LinkedIn URL] | GitHub: [Add your GitHub URL]  
 
 ---
-## 🛠️ Using Tools : 
 
-Seo Studio 
+## 📌 Profile Summary
+Frontend Developer with **10+ years of experience** building scalable, maintainable, and high-performance applications using **ReactJS** and modern web technologies. Skilled in React Hooks, REST API integration, responsive design, accessibility, and performance optimization. Proven track record of leading teams, mentoring developers, and delivering enterprise-grade solutions across education and technology sectors. Open to relocation and eager to contribute to Dubai’s dynamic tech ecosystem.
 
-For Accessibility and ADA testing tool - WAVE accessibility checker
+---
 
-For Website performance report - Google Lighthouse
-
-For Performance & Speed Optimization - PageSpeed Insights
-
-For content and audit report (from lighthouse) optimization - ChatGPT
-
-
-
-## 🛠️ Core Competencies
-- **Digital Marketing Expertise:** SEO/SEM, PPC, Social Media Marketing, Email Marketing, Content Marketing, CRO, Lead Generation, Retargeting  
-- **Analytics & Tools:** Google Analytics 4, Search Console, SEMrush, Ahrefs, Tag Manager, A/B Testing, Data Visualization  
-- **Platforms & Channels:** Google Ads, Meta Ads, LinkedIn, Snapchat, Mailchimp, HubSpot, WordPress, Hootsuite, Zapier  
-- **Web Development:** HTML5, CSS3, Bootstrap, TailwindCSS, ReactJS, JavaScript  
-- **Cloud Services:** AWS (EC2, S3, Lambda, RDS, DynamoDB, CloudFormation, CloudWatch, IAM, VPC, Route 53, CloudFront, Auto Scaling)  
-- **Soft Skills:** Strategic Planning, Problem-Solving, Creative Thinking, Collaboration, Project Management, Budget Management, Client Relations  
+## 🛠 Core Skills
+- **Frontend**: ReactJS, React Hooks, JSX, HTML5, CSS3, Tailwind CSS, Bootstrap, Styled Components  
+- **Testing**: Jest, React Testing Library, Enzyme  
+- **Tools & DevOps**: Git, REST API integration, CI/CD workflows  
+- **UI/UX**: Responsive Design, Accessibility, Cross-browser Compatibility, Modular Components  
+- **Soft Skills**: Team Leadership, Workflow Optimization, Client Collaboration, Mentorship  
 
 ---
 
 ## 💼 Professional Experience
 
-### 🚀 Aabhyasa Technologies Pvt. Ltd.  
-*Front-End Developer / Digital Marketing Coordinator*  
-*Varanasi, Uttar Pradesh | Nov 2021 – Nov 2025*  
-- Increased user acquisition by **45% in 12 months** via optimized campaigns  
-- Managed **$500K+ quarterly ad budget**, improving ROAS by **30%**  
-- Reduced CPA by **20%** with advanced targeting & retargeting strategies  
-- Boosted conversion rates by **18%** through A/B tested landing pages  
-- Mentored a team of 4 marketers, establishing best practices  
-- Built customer acquisition funnels, improving CLV by **12%**
+### Aabhyasa Technologies Pvt. Ltd. – Varanasi, India  
+**Frontend Developer** | Nov 2021 – Nov 2025  
+- Built scalable applications using ReactJS (JSX, Props, State, Lifecycle Methods).  
+- Implemented React Hooks (`useState`, `useEffect`, `useContext`, `useReducer`) for state management.  
+- Designed dynamic routing with React Router for seamless navigation.  
+- Created robust forms with Formik, React Hook Form, and Yup.  
+- Optimized performance with memoization, lazy loading, and code splitting (improved load times by 40%).  
+- Ensured reliability with unit/integration testing (Jest, React Testing Library, Enzyme).  
+- Mentored junior developers and streamlined workflows for faster delivery.  
 
 ---
 
-### 📈 Pride Solution  
-*Digital Marketing Coordinator*  
-*Prayagraj, Uttar Pradesh | Jun 2020 – Oct 2021*  
-- Increased organic traffic by **130%** through SEM keyword strategies  
-- Managed SEO, digital ads, social media, and email campaigns  
-- Conducted competitor analysis to identify growth opportunities  
-- Delivered campaign insights and recommendations to senior teams  
+### Pride Solution – Prayagraj, India  
+**Front-End Software Developer** | Jun 2020 – Oct 2021  
+- Designed modular, reusable UI components using HTML, CSS, and JavaScript.  
+- Delivered responsive, mobile-first designs with Bootstrap and modern CSS.  
+- Integrated REST APIs for dynamic, data-driven applications.  
+- Applied Git version control for efficient collaboration.  
+- Enhanced frontend performance through lightweight assets and clean coding practices.  
 
 ---
 
-### 💻 Edunext Technologies Pvt. Ltd.  
-*Front-End Software Developer*  
-*Noida, Uttar Pradesh | Jun 2019 – May 2020*  
-- Developed ERP modules for admissions, fees, attendance, and exams  
-- Built responsive UI components with HTML5, CSS3, Bootstrap  
-- Integrated secure login flows, role management, and real-time notifications  
-- Automated workflows for document uploads, scheduling, and communication  
+### Edunext Technologies Pvt. Ltd. – Noida, India  
+**Front-End Software Developer** | Jun 2019 – May 2020  
+- Developed ERP modules for admission, fee management, attendance, and exam tracking.  
+- Built responsive UI components ensuring cross-device compatibility.  
+- Integrated secure login/logout flows and role-based dashboards.  
+- Automated workflows for document uploads, scheduling, and communication.  
 
 ---
 
-### 🔧 Tech Corner  
-*C++ Developer*  
-*Varanasi, Uttar Pradesh | Oct 2016 – May 2019*  
-- Built efficient software applications using OOP principles  
-- Implemented advanced data structures & algorithms for performance  
-- Optimized applications with multithreading and concurrency  
+### Tech Corner – Varanasi, India  
+**Front-End Software Developer** | Oct 2016 – May 2019  
+- Maintained responsive web applications using HTML5, CSS3, JavaScript, Bootstrap.  
+- Translated wireframes into functional, user-friendly interfaces.  
+- Conducted module-wise testing to reduce regression issues.  
 
----¯
+---
 
-### 🖥️ Vapsoft Technologies Pvt. Ltd. / Shadimaker  
-*C++ Developer*  
-*Noida, Uttar Pradesh | Oct 2015 – Sep 2016*  
-- Developed UI components and desktop modules in modern C++  
-- Refactored legacy code for performance optimization  
-- Collaborated with cross-functional teams for robust releases  
+### Vapsoft Technologies Pvt. Ltd. – Noida, India  
+**Front-End Software Developer** | Oct 2015 – Sep 2016  
+- Built semantic, accessible web pages using HTML5 and CSS3.  
+- Developed interactive features with JavaScript (ES6+).  
+- Created mobile-friendly designs with Bootstrap and media queries.  
+- Ensured cross-browser compatibility and smooth performance.  
 
 ---
 
 ## 🎓 Education
-**Bachelor of Technology (B.Tech) – Computer Science Engineering**  
-*Kashi Institute of Technology, Varanasi | Jul 2011 – Jun 2015*
-
----
-## 🎓 portfolio
-https://conferencepanel.com
-
-https://humaanized.com
-
-https://www.tha.org
-
-http://vapsoft.org
-
-https://sarrtechnologies.in
-
-
-
-
-## 📫 Contact
-- 📍 Address: B-602 Sai Enclave, Naigaon East, Maharashtra  
-- 📞 Mobile: +91 8922096699  
-- 📧 Email: ersharaddubey@gmail.com  
+**Bachelor of Technology (B.Tech.) – Computer Science Engineering**  
+Kashi Institute of Technology, Varanasi | 2011 – 2015  
 
 ---
 
+## 🏆 Key Achievements
+- Reduced application load times by **40%** through performance optimization.  
+- Led a team of **5 developers**, delivering enterprise projects ahead of schedule.  
+- Built ERP modules used by **thousands of students and teachers** across schools.  
+- Consistently delivered projects with **100% client satisfaction**.  
 
-## 🌟 Summary
-Sharad Dubey is a **results-driven Digital Marketing Developer** who bridges the gap between **marketing strategy and technical execution**. With expertise in **ReactJS, AWS Cloud, and digital campaign optimization**, he delivers scalable solutions that drive measurable business growth.
+---
+
+## 📂 Additional Information
+- Open to relocation: **Dubai, UAE**  
+- Languages: English, Hindi  
+- Interests: Mentoring developers, optimizing workflows, continuous learning in cloud & DevOps  
