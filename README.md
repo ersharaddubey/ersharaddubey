@@ -3,7 +3,6 @@
 
 📧 ersharaddubey@gmail.com | 📱 +91-8922096699  
 🌍 India (Open to relocation: Dubai)  
-🔗 LinkedIn: [Add your LinkedIn URL] | GitHub: [Add your GitHub URL]  
 
 ---
 
