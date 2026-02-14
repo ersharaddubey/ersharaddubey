@@ -53,16 +53,8 @@ Frontend Developer with **10+ years of experience** building scalable, maintaina
 
 ---
 
-### Tech Corner – Varanasi, India  
-**Front-End Software Developer** | Oct 2016 – May 2019  
-- Maintained responsive web applications using HTML5, CSS3, JavaScript, Bootstrap.  
-- Translated wireframes into functional, user-friendly interfaces.  
-- Conducted module-wise testing to reduce regression issues.  
-
----
-
 ### Vapsoft Technologies Pvt. Ltd. – Noida, India  
-**Front-End Software Developer** | Oct 2015 – Sep 2016  
+**Front-End Software Developer** | Oct 2015 – may 2019  
 - Built semantic, accessible web pages using HTML5 and CSS3.  
 - Developed interactive features with JavaScript (ES6+).  
 - Created mobile-friendly designs with Bootstrap and media queries.  
