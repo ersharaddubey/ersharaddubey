@@ -1,82 +1,148 @@
-# Sharad Dubey  
-**Frontend Developer | ReactJS Specialist**  
+# Sharad Dubey
+## Senior Full-Stack Developer (MERN Stack)
 
-📧 ersharaddubey@gmail.com | 📱 +91-8922096699  
-🌍 India (Open to relocation: Dubai)  
-
----
-
-## 📌 Profile Summary
-Frontend Developer with **10+ years of experience** building scalable, maintainable, and high-performance applications using **ReactJS** and modern web technologies. Skilled in React Hooks, REST API integration, responsive design, accessibility, and performance optimization. Proven track record of leading teams, mentoring developers, and delivering enterprise-grade solutions across education and technology sectors. Open to relocation and eager to contribute to Dubai’s dynamic tech ecosystem.
+📍 Naigaon, Maharashtra, India  
+📧 ersharaddubey@gmail.com  
+📱 +91-8922096699  
 
 ---
 
-## 🛠 Core Skills
-- **Frontend**: ReactJS, React Hooks, JSX, HTML5, CSS3, Tailwind CSS, Bootstrap, Styled Components  
-- **Testing**: Jest, React Testing Library, Enzyme  
-- **Tools & DevOps**: Git, REST API integration, CI/CD workflows  
-- **UI/UX**: Responsive Design, Accessibility, Cross-browser Compatibility, Modular Components  
-- **Soft Skills**: Team Leadership, Workflow Optimization, Client Collaboration, Mentorship  
+## 👨‍💻 Professional Summary
+
+Senior Full-Stack Developer with 10+ years of experience specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **PHP**.  
+Experienced in architecting scalable SaaS platforms, enterprise-grade web and mobile applications, and optimizing database-driven systems.
+
+Strong expertise in:
+- Scalable system architecture
+- RESTful API development
+- Secure OAuth integrations
+- Cloud deployments (AWS)
+- CI/CD implementation
+- Database performance optimization
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Core Skills
 
-### Aabhyasa Technologies Pvt. Ltd. – Varanasi, India  
-**Frontend Developer** | Nov 2021 – Nov 2025  
-- Built scalable applications using ReactJS (JSX, Props, State, Lifecycle Methods).  
-- Implemented React Hooks (`useState`, `useEffect`, `useContext`, `useReducer`) for state management.  
-- Designed dynamic routing with React Router for seamless navigation.  
-- Created robust forms with Formik, React Hook Form, and Yup.  
-- Optimized performance with memoization, lazy loading, and code splitting (improved load times by 40%).  
-- Ensured reliability with unit/integration testing (Jest, React Testing Library, Enzyme).  
-- Mentored junior developers and streamlined workflows for faster delivery.  
+### Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- jQuery
+- HTML5 / CSS3
+
+### Backend
+- Node.js
+- Express.js
+- Core PHP
+- Laravel
+
+### Mobile Development
+- React Native (Android / iOS)
+- PWA Development
+
+### Database
+- MongoDB
+- MySQL
+- SQL Server
+
+### Tools & DevOps
+- AWS (EC2, S3)
+- Docker
+- Git
+- Postman
+- JWT Authentication
+- OAuth
+- Socket.io
+- Azure DevOps
 
 ---
 
-### Pride Solution – Prayagraj, India  
-**Front-End Software Developer** | Jun 2020 – Oct 2021  
-- Designed modular, reusable UI components using HTML, CSS, and JavaScript.  
-- Delivered responsive, mobile-first designs with Bootstrap and modern CSS.  
-- Integrated REST APIs for dynamic, data-driven applications.  
-- Applied Git version control for efficient collaboration.  
-- Enhanced frontend performance through lightweight assets and clean coding practices.  
+## 🏢 Professional Experience
+
+### Senior Full-Stack Developer  
+**Aabhyasa Technology Pvt Ltd**  
+📍 Varanasi, India | Nov 2021 – Nov 2025  
+
+- Architected enterprise-scale web & mobile applications using MERN & PHP.
+- Reduced document processing time by 50% through workflow automation.
+- Implemented OAuth integrations (Gmail, Microsoft, Google Drive).
+- Led cross-functional development teams.
+- Deployed multi-tenant SaaS applications on AWS.
+- Designed CI/CD pipelines reducing deployment errors by 30%.
+- Mentored junior developers in clean code & scalable architecture.
 
 ---
 
-### Edunext Technologies Pvt. Ltd. – Noida, India  
-**Front-End Software Developer** | Jun 2019 – May 2020  
-- Developed ERP modules for admission, fee management, attendance, and exam tracking.  
-- Built responsive UI components ensuring cross-device compatibility.  
-- Integrated secure login/logout flows and role-based dashboards.  
-- Automated workflows for document uploads, scheduling, and communication.  
+### Software Developer  
+**Pride Solution**  
+📍 Prayagraj, India | June 2020 – Oct 2021  
+
+- Delivered 15+ production applications.
+- Improved application performance by 40%.
+- Developed REST APIs with JWT & Laravel Passport.
+- Deployed PWA & mobile apps with 10,000+ active users.
+- Worked on COVID-19 Government projects.
 
 ---
 
-### Vapsoft Technologies Pvt. Ltd. – Noida, India  
-**Front-End Software Developer** | Oct 2015 – may 2019  
-- Built semantic, accessible web pages using HTML5 and CSS3.  
-- Developed interactive features with JavaScript (ES6+).  
-- Created mobile-friendly designs with Bootstrap and media queries.  
-- Ensured cross-browser compatibility and smooth performance.  
+### Software Developer  
+**Edunext Technologies Pvt. Ltd.**  
+📍 Noida, India | Jun 2019 – Jun 2020  
+
+- Built scalable ERP portals.
+- Designed modules: Admission, Fee, Payroll, Reporting.
+- Implemented PHPUnit automated testing.
+- Reduced post-production bugs by 35%.
+- Integrated real-time notifications using Socket.io.
+
+---
+
+### Software Developer  
+**Vapsoft Technology Pvt Ltd**  
+📍 Prayagraj, India | Oct 2015 – May 2019  
+
+- Developed and maintained dynamic PHP applications.
+- Optimized MySQL databases.
+- Integrated payment gateways & SMS/email APIs.
+- Implemented security best practices (XSS, CSRF, SQL Injection prevention).
 
 ---
 
 ## 🎓 Education
-**Bachelor of Technology (B.Tech.) – Computer Science Engineering**  
-Kashi Institute of Technology, Varanasi | 2011 – 2015  
+
+- **Bachelor of Technology**  
+  Kashi Institute of Technology, Varanasi (2015)
+
+- Intermediate (Science)  
+  Sant Vivekanand UMV, Gopiganj (2011)
+
+- High School (Science)  
+  Sant Vivekanand UMV, Gopiganj (2009)
 
 ---
 
-## 🏆 Key Achievements
-- Reduced application load times by **40%** through performance optimization.  
-- Led a team of **5 developers**, delivering enterprise projects ahead of schedule.  
-- Built ERP modules used by **thousands of students and teachers** across schools.  
-- Consistently delivered projects with **100% client satisfaction**.  
+## 🌐 Key Expertise Areas
+
+- Data Dissemination Portals
+- RESTful API Development
+- SaaS Application Architecture
+- Database Optimization
+- Role-Based Access Control (RBAC)
+- Cloud-Native Deployment
+- Secure Authentication Systems
 
 ---
 
-## 📂 Additional Information
-- Open to relocation: **Dubai, UAE**  
-- Languages: English, Hindi  
-- Interests: Mentoring developers, optimizing workflows, continuous learning in cloud & DevOps  
+## 📌 Languages
+
+- English
+- Hindi (Native)
+
+---
+
+## 🤝 Let's Connect
+
+Open to senior-level MERN stack opportunities, technical leadership roles, and scalable SaaS product development.
+
+---
