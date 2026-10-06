@@ -1,148 +1,57 @@
-# Sharad Dubey
-## Senior Full-Stack Developer (MERN Stack)
+# Sharad Dubey – Portfolio
 
-📍 Naigaon, Maharashtra, India  
-📧 ersharaddubey@gmail.com  
-📱 +91-8922096699  
+A single-page portfolio for **Sharad Dubey**, Senior Full Stack Developer (React.js, Node.js, Express.js, MongoDB, AWS) with 10+ years of experience in secure healthcare and AI applications.
 
----
+**Live site:** _add your published link here_
+**LinkedIn:** _add your LinkedIn profile URL here_
 
-## 👨‍💻 Professional Summary
+## About
 
-Senior Full-Stack Developer with 10+ years of experience specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **PHP**.  
-Experienced in architecting scalable SaaS platforms, enterprise-grade web and mobile applications, and optimizing database-driven systems.
+The page covers:
 
-Strong expertise in:
-- Scalable system architecture
-- RESTful API development
-- Secure OAuth integrations
-- Cloud deployments (AWS)
-- CI/CD implementation
-- Database performance optimization
+- **Projects:** MedSecure (HIPAA-compliant healthcare system), Prompt Factory (AI prompt and LLM security platform) and ClinicFlow (multi-clinic operations platform), each with an architecture layer breakdown.
+- **Experience:** roles from 2015 to the present, including team leadership.
+- **Skills:** frontend, backend, databases, security, AI/LLM, cloud and architecture.
+- **Contact:** email and phone.
 
----
+## Tech
 
-## 🚀 Core Skills
+Plain HTML and CSS in one file, with no build step and no dependencies. Fonts (Bricolage Grotesque and Public Sans) load from Google Fonts. The page supports light and dark mode and works on mobile.
 
-### Frontend
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- jQuery
-- HTML5 / CSS3
+## Project structure
 
-### Backend
-- Node.js
-- Express.js
-- Core PHP
-- Laravel
+```
+.
+├── index.html   # the portfolio page (rename sharad-dubey-portfolio.html)
+└── README.md
+```
 
-### Mobile Development
-- React Native (Android / iOS)
-- PWA Development
+## Run locally
 
-### Database
-- MongoDB
-- MySQL
-- SQL Server
+1. Rename `sharad-dubey-portfolio.html` to `index.html`.
+2. Open `index.html` in any browser.
 
-### Tools & DevOps
-- AWS (EC2, S3)
-- Docker
-- Git
-- Postman
-- JWT Authentication
-- OAuth
-- Socket.io
-- Azure DevOps
+## Deploy for free (GitHub Pages)
 
----
+1. Create a new GitHub repository, for example `portfolio`.
+2. Upload `index.html` and `README.md`.
+3. Go to **Settings → Pages**, choose the `main` branch and the `/ (root)` folder, then save.
+4. Your site will be live at `https://<your-username>.github.io/portfolio/`.
 
-## 🏢 Professional Experience
+## Add it to LinkedIn
 
-### Senior Full-Stack Developer  
-**Aabhyasa Technology Pvt Ltd**  
-📍 Varanasi, India | Nov 2021 – Nov 2025  
+1. Open your LinkedIn profile and choose **Add profile section → Featured → Links**.
+2. Paste your live site URL, add the title "Portfolio – Sharad Dubey" and save.
+3. Also add the same URL under **Contact info → Website**.
 
-- Architected enterprise-scale web & mobile applications using MERN & PHP.
-- Reduced document processing time by 50% through workflow automation.
-- Implemented OAuth integrations (Gmail, Microsoft, Google Drive).
-- Led cross-functional development teams.
-- Deployed multi-tenant SaaS applications on AWS.
-- Designed CI/CD pipelines reducing deployment errors by 30%.
-- Mentored junior developers in clean code & scalable architecture.
+## Customize
 
----
+- **Text and projects:** edit the content inside `index.html`.
+- **Colors:** change the values in the `:root` block at the top of the `<style>` section.
+- **Contact details:** search for `mailto:` and `tel:` to update the links.
 
-### Software Developer  
-**Pride Solution**  
-📍 Prayagraj, India | June 2020 – Oct 2021  
+## Contact
 
-- Delivered 15+ production applications.
-- Improved application performance by 40%.
-- Developed REST APIs with JWT & Laravel Passport.
-- Deployed PWA & mobile apps with 10,000+ active users.
-- Worked on COVID-19 Government projects.
-
----
-
-### Software Developer  
-**Edunext Technologies Pvt. Ltd.**  
-📍 Noida, India | Jun 2019 – Jun 2020  
-
-- Built scalable ERP portals.
-- Designed modules: Admission, Fee, Payroll, Reporting.
-- Implemented PHPUnit automated testing.
-- Reduced post-production bugs by 35%.
-- Integrated real-time notifications using Socket.io.
-
----
-
-### Software Developer  
-**Vapsoft Technology Pvt Ltd**  
-📍 Prayagraj, India | Oct 2015 – May 2019  
-
-- Developed and maintained dynamic PHP applications.
-- Optimized MySQL databases.
-- Integrated payment gateways & SMS/email APIs.
-- Implemented security best practices (XSS, CSRF, SQL Injection prevention).
-
----
-
-## 🎓 Education
-
-- **Bachelor of Technology**  
-  Kashi Institute of Technology, Varanasi (2015)
-
-- Intermediate (Science)  
-  Sant Vivekanand UMV, Gopiganj (2011)
-
-- High School (Science)  
-  Sant Vivekanand UMV, Gopiganj (2009)
-
----
-
-## 🌐 Key Expertise Areas
-
-- Data Dissemination Portals
-- RESTful API Development
-- SaaS Application Architecture
-- Database Optimization
-- Role-Based Access Control (RBAC)
-- Cloud-Native Deployment
-- Secure Authentication Systems
-
----
-
-## 📌 Languages
-
-- English
-- Hindi (Native)
-
----
-
-## 🤝 Let's Connect
-
-Open to senior-level MERN stack opportunities, technical leadership roles, and scalable SaaS product development.
-
----
+- Email: ersharaddubey@gmail.com
+- Phone: +91-8922096699
+- Location: India
