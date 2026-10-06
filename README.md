@@ -4,9 +4,10 @@
 
 **Building secure, real-time MERN applications for healthcare and AI products.**
 
-10+ years of shipping web applications. I own the full path: architecture, database design, APIs, real-time features and AWS deployment, with a focus on protecting sensitive data.
+10+ years of shipping web applications. I own the full path: architecture, database design, APIs, real-time features and AWS deployment, with a focus on protecting sensitive data. Currently building an AI Creative Identity Platform.
 
 <a href="mailto:ersharaddubey@gmail.com"><img src="https://img.shields.io/badge/Email_me-5FD3B0?style=for-the-badge&logo=gmail&logoColor=0F2A2B" alt="Email"/></a>
+<a href="#-featured-proprietary-ai-venture"><img src="https://img.shields.io/badge/Featured_venture-1F4FD8?style=for-the-badge&logo=openai&logoColor=white" alt="Featured venture"/></a>
 <a href="#-mern-stack-projects"><img src="https://img.shields.io/badge/See_projects-0F2A2B?style=for-the-badge&logoColor=5FD3B0&labelColor=0F2A2B&color=0F2A2B&label=%E2%86%93" alt="Projects"/></a>
 <a href="tel:+918922096699"><img src="https://img.shields.io/badge/%2B91--8922096699-1F4FD8?style=for-the-badge&logo=googlemessages&logoColor=white" alt="Phone"/></a>
 
@@ -41,6 +42,84 @@
 | **E** | **Express.js** | REST APIs, validation, RBAC |
 | **R** | **React.js** | Role-aware dashboards and portals |
 | **N** | **Node.js** | Services, Socket.IO, AWS deploys |
+
+---
+
+## 🔒 Featured: proprietary AI venture
+
+> © 2026 Sharad Dubey. All rights reserved. The concept, architecture and product design below are proprietary and not open source.
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Stage_1_in_development-5FD3B0?style=for-the-badge&labelColor=0F2A2B)
+![Funding](https://img.shields.io/badge/Open_to-Funding_%26_paid_pilots-1F4FD8?style=for-the-badge)
+
+</div>
+
+### 🧬 AI Creative Identity Platform
+`AI` `Proprietary` `Seeking funding`
+
+**Identity-Locked Prompt OS: Create once. Lock identity. Generate endlessly.**
+<sub>React.js · Node.js · Express.js · MongoDB · Ollama / Qwen · FLUX · OCR · AWS</sub>
+
+AI can generate a good single image, but consistency breaks when the same product, character or brand has to appear across many campaigns. The real gap is *identity memory*. This platform turns one reference into a reusable, structured identity and builds every prompt, check and asset on top of it.
+
+- **Identity Lock:** a reference becomes a structured profile of the product, character, environment and brand.
+- **Prompt OS:** prompts become versioned, reusable, multi-platform assets (Midjourney, Flux, SDXL) instead of throwaway text.
+- **Consistency Engine:** every generated creative is checked against the locked identity and auto-improved in a closed loop.
+- **Asset Bank with deduplication:** searchable library of products, characters, prompts and campaigns, with exact and visual duplicate detection.
+- **Private / on-prem path:** fully local deployment for enterprises and regulated industries where data cannot leave the building.
+
+```text
+Reference → Identity understanding → Identity lock → Campaign requirement
+        → Structured prompt → AI generation → Consistency check → Auto-improve / Final creative
+```
+
+**What gets locked**
+
+| Product | Character | Environment | Brand |
+|---|---|---|---|
+| Shape, material, color, texture, logo | Face, hair, clothing, accessories | Location, lighting, architecture, atmosphere | Visual language, colors, composition, style |
+
+**Product roadmap: four sequential stages, each one earns before the next is built**
+
+| Stage | Focus | Customer | Revenue model |
+|:---:|---|---|---|
+| **1** | Identity Lock | Creators, freelancers | Credits and monthly plans |
+| **2** | Structured Prompt OS | Agencies, studios | Team seats and plans |
+| **3** | Private / On-prem | Enterprise, regulated industries | Annual license and support |
+| **4** | Dedup and Asset Bank | Large teams, platforms | Cost savings and marketplace |
+
+**Go-to-market plan:** 20 companies contacted → 10 interviews → 5 genuine pain signals → 3 demos → 1–2 paid pilots. The target customer pattern is high creative volume, repetitive work and a consistency problem.
+
+<details>
+<summary><b>Architecture</b></summary>
+
+| Layer | Details |
+|---|---|
+| **Brand profile** | Product, character, environment and brand inputs |
+| **Identity store** | Structured, locked identity profiles |
+| **Understanding** | Ollama / Qwen vision and language analysis |
+| **Prompt orchestration** | Canonical structure, platform variants, versioning |
+| **Generation** | FLUX generation layer, local or API |
+| **Consistency engine** | Compare, detect mismatch, improve, regenerate |
+| **Asset library** | Search, deduplication, reuse, team collaboration |
+
+</details>
+
+<details>
+<summary><b>Platform modules</b></summary>
+
+| Module | What it does |
+|---|---|
+| **Identity Lock** | Locks product, character, environment and brand identity from a reference |
+| **Prompt OS** | Structured prompts, templates, version history, comparison, team sharing |
+| **Consistency Engine** | Quality-control loop between the AI model and the final creative |
+| **Asset Bank** | Organized creative memory for prompts, images, campaigns and versions |
+| **Deduplication** | Finds exact and visually similar assets to cut storage and repeat work |
+| **Private deployment** | Local vision, LLM and image generation with tenant isolation |
+
+</details>
 
 ---
 
@@ -248,10 +327,12 @@ Full-stack systems where I handled design, schema, APIs and deployment. Expand *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2A2B&height=170&section=footer&text=Let's%20talk&fontColor=E6F1EF&fontSize=40&fontAlignY=65" alt="Let's talk" width="100%"/>
 
-**Open to senior full stack roles and architecture-heavy projects.**
+**Open to senior full stack roles, architecture-heavy projects, and funding or pilot conversations for the AI Creative Identity Platform.**
 
 📧 [ersharaddubey@gmail.com](mailto:ersharaddubey@gmail.com) · 📞 [+91-8922096699](tel:+918922096699)
 
 <sub>B.Tech, Kashi Institute of Technology, Varanasi (2015) · English (professional), Hindi (native)</sub>
+
+<sub>© 2026 Sharad Dubey. All rights reserved.</sub>
 
 </div>
